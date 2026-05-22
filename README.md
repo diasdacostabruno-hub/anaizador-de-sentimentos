@@ -1,0 +1,1 @@
+# anaizador-de-sentimentos
